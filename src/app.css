@@ -1,0 +1,19 @@
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.pagination li {
+  background-color: rgb(6, 119, 249);
+  padding: 20px;
+}
+
+.pagination li a {
+  color: white !important;
+  text-decoration: none;
+}
+
+.homeContainer {
+  min-height: calc(100vh - 86px);
+}
